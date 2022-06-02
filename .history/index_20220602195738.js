@@ -1,5 +1,5 @@
 // Write your code here!
-const nameString = "hi"
+const testVar = "hi"
 
 
 document.querySelector("main#main").remove();

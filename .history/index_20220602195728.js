@@ -1,7 +1,7 @@
 // Write your code here!
-const nameString = "hi"
+const testVar = "hi"
 
-
+/* Enter the code to remove the node element here */
 document.querySelector("main#main").remove();
 
 
